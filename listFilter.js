@@ -15,3 +15,4 @@ module.exports = function(dir, extension, callback) {
 		callback(null,filteredList);
 	});
 }
+
